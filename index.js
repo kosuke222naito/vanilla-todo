@@ -5,7 +5,7 @@ const handleFormSubmit = (event) => {
   const inputValue = inputElement.value.trim();
 
   if (!inputValue) {
-    alert("テキストを入力してください。");
+    alert("入力してください。");
     return;
   }
 
