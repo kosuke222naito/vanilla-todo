@@ -1,0 +1,16 @@
+.checked {
+  text-decoration: line-through;
+}
+
+ul {
+  list-style: none;
+}
+
+label {
+  margin: 0 1rem;
+}
+
+input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+}
